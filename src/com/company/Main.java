@@ -4,10 +4,7 @@ import java.util.Scanner;
 
 public class Main {
 
-
-
-
-    public void main(String[] args) {
+    public static void main(String[] args) {
         //Abrimos un Scanner y declaramos variable numero donde almacenar la entrada en consola pedida al usuario.
         Scanner sc = new Scanner(System.in);
         System.out.println("Introduzca un número entero");
